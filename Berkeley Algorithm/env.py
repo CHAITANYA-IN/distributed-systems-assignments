@@ -1,0 +1,10 @@
+HOST='127.0.0.1'
+PORT=3000
+
+FORMAT='utf-8'
+BUFFERSIZE=1024
+
+SOCKET="socket"
+DIFFERENCE="difference"
+
+GAP=2
